@@ -1,1 +1,2 @@
-# class39-project1
+# C39RV_SpeedRacer_ReferenceCode
+Teacher Reference code
